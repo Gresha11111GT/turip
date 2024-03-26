@@ -1,0 +1,8 @@
+name: MinecraftPlugin
+version: '1.0-SNAPSHOT'
+main: me.gresha_11111_gt.minecraftplugin.MinecraftPlugin
+api-version: '1.20'
+authors: [Gresha_11111_GT]
+description: таващехз
+website: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+depend: [ProtocolLib]
